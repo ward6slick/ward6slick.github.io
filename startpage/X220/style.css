@@ -104,12 +104,10 @@ background-color:#04132C;
 	border-style: solid;
 	border-width: 2px;
 	border-color: #000000;
-    width: 400px;
+    width: auto;
 	height: 12px;
 	background-color:#FFFFFF;
 	overflow: hidden;
-	line-height: 12px;
-	position:absolute;
 }
 
 .searchinput {
@@ -133,6 +131,32 @@ background-color:#04132C;
 .searchinput:focus {
 	outline:none;
 	border:none;
+}
+
+.marqueebar {
+	border-style: solid;
+	border-width: 2px;
+	border-color: #000000;
+    width: 300px;
+	height: 12px;
+	line-height:12px;
+	float:right;
+	margin-left:2px;
+	background-color:#FFFFFF;
+	overflow:hidden;
+}
+
+.marquee2 {
+  overflow:hidden;
+  width: 296px;
+  height: 100%;
+  margin: 0;
+  padding-left:2px;
+  padding-right:2px;
+  top:1px;
+  line-height: 12px;
+  position:absolute;
+  text-align: center;
 }
 
 .bottomcontainer {
