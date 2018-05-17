@@ -146,6 +146,19 @@ background-color:#04132C;
 	overflow:hidden;
 }
 
+.marquee2 {
+  overflow:hidden;
+  width: 12px;
+  height: 100%;
+  margin: 0;
+  padding-left:2px;
+  padding-right:2px;
+  top:1px;
+  line-height: 12px;
+  position:absolute;
+  text-align: center;
+}
+
 .bottomcontainer {
 	width:540px;
 	height:12px;
