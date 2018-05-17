@@ -39,7 +39,7 @@ body{
 	/*brown2*/
 /*background-color:#100906;*/
 	/*brown3*/
-/*background-color:#242624;*/
+background-color:#242624;
 	/*brown4*/
 /*background-color:#242624;*/
 	/*brown5*/
@@ -47,7 +47,7 @@ body{
 	/*green1*/
 /*background-color:#123138;*/
 	/*pink1*/
-background-color:#030C1A;
+/*background-color:#030C1A;*/
 	background-image: url("img/bg_tile.jpg");
 	background-repeat: repeat;
 }
