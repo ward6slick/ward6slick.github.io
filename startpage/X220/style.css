@@ -137,7 +137,7 @@ background-color:#04132C;
 	border-style: solid;
 	border-width: 2px;
 	border-color: #000000;
-    width: 240px;
+    width: 250px;
 	height: 12px;
 	line-height:12px;
 	float:right;
@@ -148,7 +148,7 @@ background-color:#04132C;
 
 .marquee2 {
   overflow:hidden;
-  width: 236px;
+  width: 246px;
   height: 100%;
   margin: 0;
   padding-left:2px;
