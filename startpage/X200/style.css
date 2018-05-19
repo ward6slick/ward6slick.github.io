@@ -18,38 +18,38 @@ input {
 body{
 	font-family: haxrcorp, monospace;
 	font-size:15px;
-/*books*/
-	/*background-color:#1A1E21;*/
-/*black1*/
-	/*background-color:#1F2235;*/
-/*black2*/
-	/*background-color:#0E1B1A;*/
-/*black3*/
-	/*background-color:#0C1414;*/
-/*black4*/
-	background-color:#161f1e;
-/*blue1*/
-	/*background-color:#2E3C51;*/
-/*blue2*/
-	/*background-color:#04132C;*/
-/*blue3*/
-	/*background-color:#3C3E59;*/
-/*brown1*/
-	/*background-color:#22231F;*/
-/*brown2*/
-	/*background-color:#100906;*/
-/*brown3*/
-	/*background-color:#242624;*/
-/*brown4*/
-	/*background-color:#242624;*/
-/*brown5*/
-	/*background-color:#242624;*/
-/*green1*/
-	/*background-color:#123138;*/
-/*green2*/
-	/*background-color:#0D282C;*/
-/*pink1*/
-	/*background-color:#030C1A;*/
+	/*books*/
+/*background-color:#1A1E21;*/
+	/*black1*/
+/*background-color:#1F2235;*/
+	/*black2*/
+background-color:#0E1B1A;
+	/*black3*/
+/*background-color:#0C1414;*/
+	/*black4*/
+/*background-color:#161f1e;*/
+	/*blue1*/
+/*background-color:#2E3C51;*/
+	/*blue2*/
+/*background-color:#04132C;*/
+	/*blue3*/
+/*background-color:#3C3E59;*/
+	/*brown1*/
+/*background-color:#22231F;*/
+	/*brown2*/
+/*background-color:#100906;*/
+	/*brown3*/
+/*background-color:#242624;*/
+	/*brown4*/
+/*background-color:#242624;*/
+	/*brown5*/
+/*background-color:#242624;*/
+	/*green1*/
+/*background-color:#123138;*/
+	/*green2*/
+/*background-color:#0D282C;*/
+	/*pink1*/
+/*background-color:#030C1A;*/
 	background-image: url("img/bg_tile.jpg");
 	background-repeat: repeat;
 }
