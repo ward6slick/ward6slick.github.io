@@ -14,7 +14,7 @@ body {
 
 main {
   display: block;
-  font-family: Terminus;
+  font-family: 'Roboto Mono';
   /* left: 50%; */
   position: absolute;
   top: 30%;
