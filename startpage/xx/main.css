@@ -9,7 +9,7 @@ ul {
 body {
   background: #252a32;
   height: 100%;
-  width: 100%;
+  width: 80%;
 }
 
 main {
@@ -19,7 +19,7 @@ main {
   position: absolute;
   top: 30%;
   /* transform: translate(-50%, -50%); */
-  width: 80%;
+  width: 100%;
 }
 
 h1 {
