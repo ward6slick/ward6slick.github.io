@@ -9,7 +9,7 @@ ul {
 body {
   background: #252a32;
   height: 100%;
-  width: 80%;
+  width: 100%;
 }
 
 main {
@@ -19,7 +19,7 @@ main {
   position: absolute;
   top: 30%;
   /* transform: translate(-50%, -50%); */
-  width: 80%;
+  width: 100%;
 }
 
 h1 {
@@ -27,20 +27,20 @@ h1 {
   display: block;
   margin: 0 auto;
   text-align: left;
-  width: 800px;
+  width: 400px;
 }
 
 hr {
   border: 0;
   border-top: 1px solid #546780;
   opacity: .4;
-  width: 800px;
+  width: 400px;
 }
 
 ul {
   display: block;
   margin: 0 auto;
-  width: 800px;
+  width: 400px;
 }
 
 li {
