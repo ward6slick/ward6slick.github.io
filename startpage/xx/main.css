@@ -32,7 +32,7 @@ h1 {
 
 hr {
   border: 0;
-  border-top: 1px solid #546780;
+  border-top: 1px solid #7c9fa6;
   opacity: .4;
   width: 600px;
 }
@@ -44,7 +44,7 @@ ul {
 }
 
 li {
-  color: #546780;
+  color: #99BFBA;
   display: inline-block;
   font-size: 1.4em;
   line-height: 1.5;
@@ -53,7 +53,7 @@ li {
 }
 
 a {
-  color: #bab7b5;
+  color: #f0f0f0;
   text-decoration: none;
   transition: .2s;
 }
