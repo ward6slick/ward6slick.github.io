@@ -7,7 +7,7 @@ ul {
 }
 
 body {
-  background: #252a32;
+  background: #071d22;
   height: 100%;
   width: 100%;
 }
@@ -23,7 +23,7 @@ main {
 }
 
 h1 {
-  color: #876058;
+  color: #8998c7;
   display: block;
   margin: 0 auto;
   text-align: left;
@@ -32,7 +32,7 @@ h1 {
 
 hr {
   border: 0;
-  border-top: 1px solid #546780;
+  border-top: 1px solid #aeb6d0;
   opacity: .4;
   width: 600px;
 }
@@ -53,7 +53,7 @@ li {
 }
 
 a {
-  color: #bab7b5;
+  color: #FFFFFF;
   text-decoration: none;
   transition: .2s;
 }
