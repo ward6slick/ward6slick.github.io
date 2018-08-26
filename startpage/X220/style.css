@@ -11,12 +11,12 @@
 }
 
 input {
-	font-family: haxrcorp, monospace;
+	font-family: haxrcorp, sans-serif;
 	font-size:10px;
 }
 
 body{
-	font-family: haxrcorp, monospace;
+	font-family: haxrcorp, sans-serif;
 	font-size:15px;
 	/*books*/
 /*background-color:#1A1E21;*/
@@ -161,7 +161,7 @@ background-color:#123138;
 	margin-right:1px;
 	width:100%;
 	border:none;
-	font-family: haxrcorp, monospace;
+	font-family: haxrcorp, sans-serif;
 	font-size:15px;
 	padding-bottom: 0px;
 	padding-top:0px;
