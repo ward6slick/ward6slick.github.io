@@ -12,12 +12,12 @@
 
 input {
 	font-family: haxrcorp, sans-serif;
-	font-size:10px;
+	font-size:8px;
 }
 
 body{
 	font-family: haxrcorp, sans-serif;
-	font-size:15px;
+	font-size:8px;
 	/*books*/
 /*background-color:#1A1E21;*/
 	/*black1*/
@@ -162,7 +162,7 @@ background-color:#123138;
 	width:100%;
 	border:none;
 	font-family: haxrcorp, sans-serif;
-	font-size:15px;
+	font-size:8px;
 	padding-bottom: 0px;
 	padding-top:0px;
 	padding-left:2px;
