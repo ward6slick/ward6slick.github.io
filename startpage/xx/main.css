@@ -7,7 +7,7 @@ ul {
 }
 
 body {
-  background: #021B21;
+  background: #0c1c1f;
   height: 100%;
   width: 100%;
 }
@@ -23,7 +23,7 @@ main {
 }
 
 h1 {
-  color: #C2454E;
+  color: #6096bf;
   display: block;
   margin: 0 auto;
   text-align: left;
@@ -44,7 +44,7 @@ ul {
 }
 
 li {
-  color: #61778D;
+  color: #6bb48d;
   display: inline-block;
   font-size: 1.4em;
   line-height: 1.5;
