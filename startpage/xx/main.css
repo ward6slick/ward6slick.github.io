@@ -1,4 +1,11 @@
 /* Startpage */
+
+@font-face
+{  
+  font-family: 'Roboto Condensed';
+  src: url('Roboto-Condensed.ttf');
+}
+
 html,
 body,
 ul {
