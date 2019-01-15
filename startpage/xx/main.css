@@ -14,7 +14,8 @@ body {
 
 main {
   display: block;
-  font-family: 'Roboto Mono';
+  font-family: 'Roboto Condensed';
+  src: url('Roboto-Condensed.ttf');
   /* left: 50%; */
   position: absolute;
   top: 30%;
