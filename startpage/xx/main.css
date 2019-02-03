@@ -31,7 +31,7 @@ main {
 }
 
 h1 {
-  color: #ff3333;
+  color: #6096bf;
   display: block;
   margin: 0 auto;
   text-align: left;
@@ -39,8 +39,8 @@ h1 {
 }
 
 hr {
-  border: 0;
-  border-top: 1px solid #fffc33;
+  border: 0;33334
+  border-top: 1px solid #c5c5c5;
   opacity: .4;
   width: 600px;
 }
@@ -52,7 +52,7 @@ ul {
 }
 
 li {
-  color: # 51, 255, 51 ;
+  color: #ffbb6f;
   display: inline-block;
   font-size: 1.4em;
   line-height: 1.5;
@@ -61,7 +61,7 @@ li {
 }
 
 a {
-  color: #33fcff;
+  color: #c5c5c5;
   text-decoration: none;
   transition: .2s;
 }
