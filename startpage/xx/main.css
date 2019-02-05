@@ -23,7 +23,7 @@ main {
   display: block;
   font-family: 'Roboto Condensed';
   src: url('Roboto-Condensed.ttf');
-   left: 50%; 
+  left: 10%; 
   position: absolute;
   top: 30%;
   /* transform: translate(-50%, -50%); */
