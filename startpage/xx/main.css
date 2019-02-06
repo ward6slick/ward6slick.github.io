@@ -10,7 +10,7 @@ html,
 body,
 ul {
   margin: 0;
-  padding: 0;
+  padding-left: 100px;
 }
 
 body {
@@ -23,7 +23,7 @@ main {
   display: block;
   font-family: 'Roboto Condensed';
   src: url('Roboto-Condensed.ttf');
-  /*left: 10%; */
+  left: 0%; 
   position: absolute;
   top: 30%;
   /* transform: translate(-50%, -50%); */
@@ -35,20 +35,20 @@ h1 {
   display: block;
   margin: 0 auto;
   text-align: left;
-  width: 600px;
+  width: 100px;
 }
 
 hr {
   border: 0;33334
-  border-top: 0px solid #C5C5C5;
+  border-top: 9px solid #C5C5C5;
   opacity: .4;
-  width: 600px;
+  width: 100px;
 }
 
 ul {
   display: block;
   margin: 0 auto;
-  width: 600px;
+  width: 400px;
 }
 
 li {
@@ -63,7 +63,7 @@ li {
 a {
   color: #c5c5c5;
   text-decoration: none;
-  transition: .2s;
+  transition: 1s;
 }
 
 a:hover {
