@@ -14,7 +14,7 @@ ul {
 }
 
 body {
-  background: #000000;
+  background: #ebebea;
   height: 100%;
   width: 100%;
 }
@@ -31,7 +31,7 @@ main {
 }
 
 h1 {
-  color: #555555;
+  color: #e3e3e3;
   display: block;
   margin: 0 auto;
   text-align: left;
@@ -52,7 +52,7 @@ ul {
 }
 
 li {
-  color: #979797;
+  color: #696969;
   display: inline-block;
   font-size: 1.4em;
   line-height: 1.5;
@@ -67,5 +67,5 @@ a {
 }
 
 a:hover {
-  color: #777777;
+  color: #ffffff;
 }
