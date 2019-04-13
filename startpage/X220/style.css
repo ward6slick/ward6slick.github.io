@@ -1,4 +1,4 @@
-gt @font-face
+gwgt @font-face
 {
     font-family:'haxrcorp';
     src: url('haxrcorpttf.ttf');
@@ -27,7 +27,7 @@ body{
 	/*black2*/
 /*background-color:#0E1B1A;*/
 	/*black3*/
-background-color:#0C1414;
+/*background-color:#0C1414;*/
 	/*black4*/
 /*background-color:#161f1e;*/
 	/*black5*/
@@ -69,7 +69,7 @@ background-color:#0C1414;
 	/*brown6*/
 /*background-color:#2D221F;*/
 	/*brown7*/
-/*background-color:#242529;*/
+background-color:#242529;
 	/*brown8*/
 /*background-color:#2d2024;*/
 	/*brown9*/
