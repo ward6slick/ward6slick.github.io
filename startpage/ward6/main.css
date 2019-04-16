@@ -7,7 +7,7 @@ ul {
 }
 
 body {
-  background: #6a7684;
+  background: #051519;
   height: 100%;
   width: 100%;
 }
@@ -32,7 +32,7 @@ h1 {
 
 hr {
   border: 0;
-  border-top: 1px solid #262626;
+  border-top: 1px solid #051519;
   opacity: .4;
   width: 400px;
 }
@@ -44,7 +44,7 @@ ul {
 }
 
 li {
-  color: #505c6a;
+  color: #233236;
   display: inline-block;
   font-size: 1.4em;
   line-height: 1.5;
@@ -59,5 +59,5 @@ a {
 }
 
 a:hover {
-  color: #777777;
+  color: #efefef;
 }
