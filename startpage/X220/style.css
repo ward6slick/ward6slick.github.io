@@ -121,13 +121,13 @@ body{
 	/*purple1*/
 /*background-color:#1A1E37;*/
 	/*purple2*/
-/*background-color:#645963;*/
+background-color:#645963;
 	/*purple3*/
 /*background-color:#1e1f2a;*/
 	/*yellow1*/
 /*background-color:#0E1319;*/
 	/*yellow2*/
-background-color:#071524;
+/*background-color:#071524;*/
 	background-image: url("img/bg_tile.jpg");
 	background-repeat: repeat;
 }
