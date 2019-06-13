@@ -33,9 +33,13 @@ body{
 	/*black5*/
 /*background-color:#111311;*/
 	/*black6*/
-/*background-color:#000000;*/
+/*background-color:#0a100e;*/
 	/*black7*/
 /*background-color:#23241d;*/
+	/*black8*/
+/*background-color:#111218;*/
+	/*black9*/
+/*background-color:#191919;*/
 	/*blue1*/
 /*background-color:#2E3C51;*/
 	/*blue2*/
@@ -45,7 +49,7 @@ body{
 	/*blue4*/
 /*background-color:#3E3D3E;*/
 	/*blue5*/
-background-color:#172A3B;
+/*background-color:#172A3B;*/
 	/*blue6*/
 /*background-color:#2E4E59;*/
 	/*blue7*/
@@ -76,6 +80,8 @@ background-color:#172A3B;
 /*background-color:#341917;*/
 	/*brown10*/
 /*background-color:#1f1f1e;*/
+	/*brown11*/
+/*background-color:#29211a;*/
 	/*green1*/
 /*background-color:#123138;*/
 	/*green2*/
@@ -86,6 +92,8 @@ background-color:#172A3B;
 /*background-color:#1E2C2B;*/
 	/*green5*/
 /*background-color:#212122;*/
+	/*green6*/
+background-color:#081417;
 	/*orange1*/
 /*background-color:#061E26;*/
 	/*orange2*/
@@ -108,12 +116,18 @@ background-color:#172A3B;
 /*background-color:#060108;*/
 	/*pink6*/
 /*background-color:#151515;*/
+	/*pink7*/
+/*background-color:#15041c;*/
 	/*purple1*/
 /*background-color:#1A1E37;*/
 	/*purple2*/
 /*background-color:#645963;*/
+	/*purple3*/
+/*background-color:#1e1f2a;*/
 	/*yellow1*/
 /*background-color:#0E1319;*/
+	/*yellow2*/
+/*background-color:#071524;*/
 	background-image: url("img/bg_tile.jpg");
 	background-repeat: repeat;
 }
