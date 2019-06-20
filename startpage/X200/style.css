@@ -23,7 +23,7 @@ body{
 	/*xmas*/
 /*background-color:#367761;*/
 	/*black1*/
-/*background-color:#1F2235;*/
+background-color:#1F2235;
 	/*black2*/
 /*background-color:#0E1B1A;*/
 	/*black3*/
@@ -127,7 +127,7 @@ body{
 	/*yellow1*/
 /*background-color:#0E1319;*/
 	/*yellow2*/
-background-color:#071524;
+/*background-color:#071524;*/
 	background-image: url("img/bg_tile.jpg");
 	background-repeat: repeat;
 }
