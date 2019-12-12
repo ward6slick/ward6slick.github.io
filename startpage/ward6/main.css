@@ -35,7 +35,7 @@ h1 {
 
 hr {
   border: 0;
-  border-top: 1px solid #051519;
+  border-top: 0px solid #051519;
   opacity: .4;
   width: 100px;
 }
