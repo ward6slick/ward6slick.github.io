@@ -1,4 +1,4 @@
- @font-face
+gJ @font-face
 {
     font-family:'haxrcorp';
     src: url('haxrcorpttf.ttf');
@@ -11,27 +11,35 @@
 }
 
 input {
-	font-family: haxrcorp, monospace;
-	font-size:10px;
+	font-family: haxrcorp, sans-serif;
+	font-size:12px;
 }
 
 body{
-	font-family: haxrcorp, monospace;
+	font-family: haxrcorp, sans-serif;
 	font-size:15px;
 	/*books*/
 /*background-color:#1A1E21;*/
+	/*xmas*/
+/*background-color:#367761;*/
 	/*black1*/
 /*background-color:#1F2235;*/
 	/*black2*/
-/*background-color:#0E1B1A;*/
+background-color:#0E1B1A;
 	/*black3*/
 /*background-color:#0C1414;*/
 	/*black4*/
 /*background-color:#161f1e;*/
 	/*black5*/
-/*background-color:#070707;*/
+/*background-color:#111311;*/
 	/*black6*/
-background-color:#000000;
+/*background-color:#0a100e;*/
+	/*black7*/
+/*background-color:#23241d;*/
+	/*black8*/
+/*background-color:#111218;*/
+	/*black9*/
+/*background-color:#191919;*/
 	/*blue1*/
 /*background-color:#2E3C51;*/
 	/*blue2*/
@@ -48,8 +56,14 @@ background-color:#000000;
 /*background-color:#00001a;*/
 	/*blue8*/
 /*background-color:#1F2524;*/
+	/*blue9*/
+/*background-color:#15132c;*/
+	/*blue10*/
+/*background-color:#111c3e;*/
+	/*blue11*/
+/*background-color:#1B1621;*/
 	/*brown1*/
-/*background-color:#22231F*/
+/*background-color:#22231F;*/
 	/*brown2*/
 /*background-color:#100906;*/
 	/*brown3*/
@@ -60,6 +74,18 @@ background-color:#000000;
 /*background-color:#242624;*/
 	/*brown6*/
 /*background-color:#2D221F;*/
+	/*brown7*/
+/*background-color:#242529;*/
+	/*brown8*/
+/*background-color:#2d2024;*/
+	/*brown9*/
+/*background-color:#341917;*/
+	/*brown10*/
+/*background-color:#1f1f1e;*/
+	/*brown11*/
+/*background-color:#29211a;*/
+	/*brown12*/
+/*background-color:#12190B;*/
 	/*green1*/
 /*background-color:#123138;*/
 	/*green2*/
@@ -68,6 +94,16 @@ background-color:#000000;
 /*background-color:#28381C;*/
 	/*green4*/
 /*background-color:#1E2C2B;*/
+	/*green5*/
+/*background-color:#212122;*/
+	/*green6*/
+/*background-color:#081417;*/
+	/*green7*/
+/*background-color:#15191f;*/
+	/*green8*/
+/*background-color:#120F05;*/
+	/*green9*/
+/*background-color:#0C150A;*/
 	/*orange1*/
 /*background-color:#061E26;*/
 	/*orange2*/
@@ -76,6 +112,8 @@ background-color:#000000;
 /*background-color:#231A23;*/
 	/*orange4*/
 /*background-color:#1a2023;*/
+	/*orange5*/
+/*background-color:#122523;*/
 	/*pink1*/
 /*background-color:#030C1A;*/
 	/*pink2*/
@@ -86,10 +124,26 @@ background-color:#000000;
 /*background-color:#0d0d1b;*/
 	/*pink5*/
 /*background-color:#060108;*/
+	/*pink6*/
+/*background-color:#151515;*/
+	/*pink7*/
+/*background-color:#15041c;*/
+	/*pink8*/
+/*background-color:#0C1005;*/
 	/*purple1*/
 /*background-color:#1A1E37;*/
+	/*purple2*/
+/*background-color:#645963;*/
+	/*purple3*/
+/*background-color:#1e1f2a;*/
+	/*purple4*/
+/*background-color:#0F1013;*/
 	/*yellow1*/
 /*background-color:#0E1319;*/
+	/*yellow2*/
+/*background-color:#071524;*/
+	/*yellow3*/
+/*background-color:#0F1213;*/
 	background-image: url("img/bg_tile.jpg");
 	background-repeat: repeat;
 }
@@ -161,8 +215,8 @@ background-color:#000000;
 	margin-right:1px;
 	width:100%;
 	border:none;
-	font-family: haxrcorp, monospace;
-	font-size:15px;
+	font-family: haxrcorp, sans-serif;
+	font-size:12px;
 	padding-bottom: 0px;
 	padding-top:0px;
 	padding-left:2px;
@@ -238,7 +292,7 @@ background-color:#000000;
 
 .welcome {
 	line-height:28px;
-	font-family: Zpix, monospace;
+	font-family: Zpix, serif;
 	font-size:18px;
 	position:absolute;
 	top:80px;
@@ -299,7 +353,8 @@ a:hover {
 }
 
 .clink {
-	font-size: 16px;
+	font-family: haxrcorp, sans-serif;
+	font-size: 12px;
 	text-decoration:none;
 	line-height: 16px;
 	color:#000000;
@@ -308,4 +363,3 @@ a:hover {
 .clink:hover{
 	text-decoration:underline;
 }
-
