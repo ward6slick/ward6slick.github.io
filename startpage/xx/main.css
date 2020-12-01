@@ -34,9 +34,8 @@ h1 {
   color: #101010;
   display: block;
   margin: 0 auto;
-  text-align: left;
+  text-align: center;
   width: 100px;
-  padding-right: 20px;
 }
 
 hr {
@@ -49,6 +48,7 @@ hr {
 ul {
   display: block;
   margin: 0 auto;
+  text-align: center;
   width: 400px;
 }
 
