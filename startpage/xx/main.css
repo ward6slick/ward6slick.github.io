@@ -10,7 +10,7 @@ html,
 body,
 ul {
     margin: 0;
-    padding-left: 0px;
+    padding-left: 100px;
 }
 
 body {
@@ -48,7 +48,7 @@ hr {
 ul {
   display: block;
   margin: 0 auto;
-  text-align: center;
+  text-align: left;
   width: 400px;
 }
 
