@@ -8,6 +8,11 @@
 
 html,
 body,
+ul {
+    margin: 0;
+    padding-left: 0px;
+}
+
 body {
   background: #ebebea;
   height: 100%;
